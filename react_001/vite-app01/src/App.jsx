@@ -1,11 +1,11 @@
-
+import Exp from "./Exp"
 
 function App() {
 
 
   return (
    
-    <h>Vite + React</h>
+  <Exp/>
   )
 }
 
